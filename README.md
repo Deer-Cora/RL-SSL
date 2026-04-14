@@ -13,21 +13,3 @@ A sample of the data processed by the Traffic Embedding and Augmentation module 
 ## **Code**
 
 Code will be made available upon acceptance.
-
-## Citation
-```bibtex
-@inproceedings{,
-    author = { Wickramasinghe, Nimesha and Shaghaghi, Arash and Tsudik, Gene and Jha, Sanjay },
-    booktitle = { 2025 IEEE Symposium on Security and Privacy (SP) },
-    title = {{ SoK: Decoding the Enigma of Encrypted Network Traffic Classifiers }},
-    year = {2025},
-    ISSN = {2375-1207},
-    pages = {1825-1843},
-    doi = {10.1109/SP61157.2025.00165},
-    url = {https://doi.ieeecomputersociety.org/10.1109/SP61157.2025.00165},
-    publisher = {IEEE Computer Society},
-    address = {Los Alamitos, CA, USA},
-    month = {May}
-}
-
-```
