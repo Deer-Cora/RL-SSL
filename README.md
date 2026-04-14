@@ -8,7 +8,7 @@ Code and data for "RL-SSL: Robust Encrypted Traffic Classification with Limited 
 4. ISCX-VPN2016: https://www.unb.ca/cic/datasets/vpn.html
 5. ISCX-Tor2016: https://www.unb.ca//cic/datasets/tor.html
 
-The data processed by the Traffic Embedding and Augmentation (TEA) module is stored in Data/features.npz.
+A sample of the data processed by the Traffic Embedding and Augmentation module is included in Data/features.npz.
 
 **Code**
 Code will be made available upon acceptance.
